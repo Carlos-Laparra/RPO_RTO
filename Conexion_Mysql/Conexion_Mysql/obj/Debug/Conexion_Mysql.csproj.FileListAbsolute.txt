@@ -1,0 +1,14 @@
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\Conexion_Mysql.exe.config
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\Conexion_Mysql.exe
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\Conexion_Mysql.pdb
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\MySql.Data.dll
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\System.Memory.dll
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\System.Buffers.dll
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\bin\Debug\MySql.Data.xml
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\obj\Debug\Conexion_Mysql.csproj.AssemblyReference.cache
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\obj\Debug\Conexion_Mysql.csproj.CoreCompileInputs.cache
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\obj\Debug\Conexion_Mysql.csproj.CopyComplete
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\obj\Debug\Conexion_Mysql.exe
+C:\Users\celap\Documents\Universidad\9NO CICLO\Virtualización\Ejericios\Ejercicio 1 - Docker\Conexion_Mysql\Conexion_Mysql\obj\Debug\Conexion_Mysql.pdb
